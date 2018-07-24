@@ -75,5 +75,3 @@ c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo
 c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
 c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
 c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
-c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\PlayerDataAccess.dll
-c:\users\varathan sp\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\PlayerDataAccess.pdb
